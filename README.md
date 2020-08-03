@@ -39,7 +39,7 @@
 <br />
 <br />
  
-<img align="left" alt="Pranay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranay0205&show_icons=true&count_private=true&hide=stars,prs&hide_border=true" />
+<img align="left" alt="Pranay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranay0205&show_icons=true&count_private=true&hide=issues,prs&hide_border=true" />
 
 [website]: https://pranayghuge.netlify.app/
 [twitter]: https://twitter.com/PranayGhuge2
