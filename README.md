@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Gonna create a new MEAN Stack Project
+- 🥅 2022 Goals: Gonna create a new MERN Stack Project
 - ⚡ Fun fact: I love to play badminton and play video games.
 
 ### Connect with me:
