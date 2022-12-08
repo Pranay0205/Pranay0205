@@ -1,4 +1,4 @@
-### Hi there, I'm Pranay - [GhostFreak][website] 👋
+### Hi there, I'm [Pranay][website] 👋
 
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
