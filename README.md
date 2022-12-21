@@ -1,4 +1,4 @@
-### Hi there, I'm [Pranay][website] 👋
+# Hi there, I'm Pranay 👋
 
 ## I'm a Software Engineer!
 
