@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!
 
 # 💫 About Me:
-🌱 I’m currently learning everything 🤣<br>🥅 2022 Goals: Gonna create a new MERN Stack Project<br>⚡ Fun fact: I love to play badminton and play video games.
+🌱 I’m currently learning everything 🤣<br>🥅 2023 Goals: Gonna do my first open source contribution<br>⚡ Fun fact: I love to play badminton and play video games.
 
 
 ## 🌐 Socials:
