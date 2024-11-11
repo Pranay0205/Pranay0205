@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!
 
 # 💫 About Me:
-🌱 I’m currently learning everything 🤣<br>🥅 2023 Goals: Gonna do my first open source contribution<br>⚡ Fun fact: I love to play badminton and play video games.
+🌱 I’m currently learning everything 🤣<br>🥅 2024 Goals: Focusing on core skills to improve <br>⚡ Fun fact: I love to play badminton and play video games.
 
 
 ## 🌐 Socials:
