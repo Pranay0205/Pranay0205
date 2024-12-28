@@ -3,7 +3,9 @@
 ## I'm a Software Engineer!
 
 # 💫 About Me:
-🌱 I’m currently learning everything 🤣<br>🥅 2024 Goals: Focusing on core skills to improve <br>⚡ Fun fact: I love to play badminton and play video games.
+🌱 Embracing continuous learning <br>
+🥅 2025 Goal: Build deep expertise in a specific domain (e.g., web development, system design, or cloud architecture) <br>
+⚡ Fun fact: I love to play badminton and video games.
 
 
 ## 🌐 Socials:
