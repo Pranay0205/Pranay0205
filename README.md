@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🌱 Embracing continuous learning <br>
-🥅 2025 Goal: Learn Go
+🥅 2025 Goal: Learn Go <br>
 ⚡ Fun fact: I love to play video games and watch movies
 
 
