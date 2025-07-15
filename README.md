@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🌱 Embracing continuous learning <br>
-🥅 2025 Goal: Build deep expertise in a specific domain (e.g., web development, system design, or cloud architecture) <br>
+🥅 2025 Goal: Learn Go
 ⚡ Fun fact: I love to play video games and watch movies
 
 
