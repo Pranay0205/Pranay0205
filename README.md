@@ -34,11 +34,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
-## 🏆 Recent Wins
-- 🥈 **Hackathon Runner-Up** at Boot.dev (CoachLint VS Code Extension)
-- 🏆 **2x ACE Award** winner at Accenture
-- 💡 Built tools that saved 40% cloud costs and turned 2-hour tasks into 10-minute victories
-
 ## 🎯 Currently Working On
 - Mastering Go (because Python is getting lonely)
 - Building AI-powered developer tools
