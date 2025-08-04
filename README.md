@@ -33,8 +33,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-## 📊 GitHub Stats
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay0205&show_icons=true&theme=radical)
 
 ## 🏆 Recent Wins
 - 🥈 **Hackathon Runner-Up** at Boot.dev (CoachLint VS Code Extension)
