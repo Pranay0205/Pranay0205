@@ -1,11 +1,11 @@
 # Hi there, I'm Pranay! 👋
 
 ## 🚀 About Me:
-I'm a dedicated Software Engineer actively seeking new opportunities! 🚀💻
-Ready to bring my skills to an amazing team! ✨💪 
-🌱 I'm currently learning **Go**  
-📫 How to reach me: **pranayghuge@gmail.com**  
-⚡ Fun fact: **I love gaming and movies!** 🎮🎬  
+I'm a dedicated Software Engineer actively seeking new opportunities! 🚀💻 <br>
+Ready to bring my skills to an amazing team! ✨💪 <br>
+🌱 I'm currently learning **Go**  <br>
+📫 How to reach me: **pranayghuge@gmail.com**  <br>
+⚡ Fun fact: **I love gaming and movies!** 🎮🎬  <br>
 
 ## 🌐 Connect with me:
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://pranayghuge.com)
@@ -30,16 +30,13 @@ Ready to bring my skills to an amazing team! ✨💪
 
 ## 📊 GitHub Stats:
 ![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay0205&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay0205&layout=compact&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranay0205&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔥 GitHub Streak Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranay0205&theme=dark&hide_border=false)
-
-## 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎯 Current Goals:
 - 🚀 Master Go programming language
@@ -50,11 +47,9 @@ Ready to bring my skills to an amazing team! ✨💪
 ## 🌟 Fun Facts:
 - 🎮 Love playing video games in my free time
 - 🎬 Movie enthusiast - always up for recommendations!
-- ☕ Coffee fuels my coding sessions
-- 🌙 Night owl - best code comes after midnight!
 
 ---
 ### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
-![Profile views](https://gpvc.arturio.dev/pranay0205)  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pranay0205)
 [![](https://visitcount.itsvg.in/api?id=pranay0205&icon=0&color=0)](https://visitcount.itsvg.in)
