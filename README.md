@@ -30,7 +30,7 @@ Ready to bring my skills to an amazing team! ✨💪 <br>
 
 
 ## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranay0205&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
 
 ## 🎯 Current Goals:
 - 🚀 Master Go programming language
