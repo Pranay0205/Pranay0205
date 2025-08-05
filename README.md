@@ -28,12 +28,6 @@ Ready to bring my skills to an amazing team! ✨💪 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats:
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay0205&show_icons=true&theme=tokyonight)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranay0205&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔥 GitHub Streak Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranay0205&theme=dark&hide_border=false)
