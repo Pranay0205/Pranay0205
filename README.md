@@ -2,7 +2,7 @@
 
 ## 🚀 About Me:
 I'm a dedicated Software Engineer actively seeking new opportunities! 🚀💻 <br> <br>
-Ready to bring my skills to an amazing team! ✨💪 <br>
+Ready to bring my skills to an amazing team! ✨💪 <br> <br>
 🌱 I'm currently learning **Go**  <br>
 📫 How to reach me: **pranayghuge@gmail.com**  <br>
 ⚡ Fun fact: **I love gaming and movies!** 🎮🎬  <br>
