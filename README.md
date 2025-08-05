@@ -30,7 +30,7 @@ Ready to bring my skills to an amazing team! ✨💪 <br>
 
 
 ## 🔥 GitHub Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranay0205&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranay0205&theme=dark)](https://git.io/streak-stats)
 
 ## 🎯 Current Goals:
 - 🚀 Master Go programming language
