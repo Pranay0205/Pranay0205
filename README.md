@@ -1,7 +1,7 @@
 # Hi there, I'm Pranay! 👋
 
 ## 🚀 About Me:
-I'm a dedicated Software Engineer actively seeking new opportunities! 🚀💻 <br>
+I'm a dedicated Software Engineer actively seeking new opportunities! 🚀💻 <br> <br>
 Ready to bring my skills to an amazing team! ✨💪 <br>
 🌱 I'm currently learning **Go**  <br>
 📫 How to reach me: **pranayghuge@gmail.com**  <br>
