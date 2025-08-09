@@ -28,10 +28,6 @@ Ready to bring my skills to an amazing team! ✨💪 <br> <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranay0205&theme=highcontrast)](https://git.io/streak-stats)
-
 ## 🎯 Current Goals:
 - 🚀 Master Go programming language
 - 🌟 Contribute to more open source projects  
