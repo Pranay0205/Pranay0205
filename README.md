@@ -1,11 +1,9 @@
 # Hi there, I'm Pranay! 👋
 
 ## 🚀 About Me:
-I'm a dedicated Software Engineer actively seeking new opportunities! 🚀💻 <br> <br>
-Ready to bring my skills to an amazing team! ✨💪 <br> <br>
-🌱 I'm currently learning **Go**  <br>
-📫 How to reach me: **pranayghuge@gmail.com**  <br>
-⚡ Fun fact: **I love gaming and movies!** 🎮🎬  <br>
+I've been obsessed with backend development since building my first Go API. There's something addictive about clean REST endpoints, type-safe database operations, and watching everything just work together.
+
+Currently finishing my Master's at UMass Dartmouth while hunting for backend or full-stack roles working with Go, Python, or TypeScript. Check out my repos for projects like Chirpy (Go REST API), Emporia (e-commerce platform with React + Flask), CoachLint (VS Code extension that won runner-up at Boot.dev), and other experiments in building scalable systems.
 
 ## 🌐 Connect with me:
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://pranayghuge.com)
