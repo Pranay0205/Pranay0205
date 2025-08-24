@@ -1,4 +1,4 @@
-# Hi there, I'm Pranay! 👋
+# Hi, I'm Pranay! 👋
 
 ## 🚀 About Me:
 I’m a developer with roots in frontend and a growing passion for backend engineering. I started out building UIs, but over time I’ve been loving the backend more and more - designing APIs, architecting services, and making data flow cleanly across systems.
