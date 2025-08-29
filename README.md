@@ -10,7 +10,7 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pranayghuge/)
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,go,js,ts,cs,react,dotnet,aws,azure,docker,mysql,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,js,ts,aws,azure,docker,postgresql,mysql,mongodb,react,cs,dotnet&perline=7)](https://skillicons.dev)
 
 ## 🎯 Current Goals:
 - 🚀 Master Go programming language
