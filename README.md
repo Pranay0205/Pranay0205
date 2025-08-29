@@ -31,7 +31,4 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
   <a href="https://github.com/pranay0205">
     <img src="https://komarev.com/ghpvc/?username=pranay0205" alt="Profile views" />
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pranay0205&icon=0&color=0" alt="Visit count" />
-  </a>
 </p>
