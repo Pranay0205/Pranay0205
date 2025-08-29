@@ -17,12 +17,18 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
 ## 🌟 Fun Facts:
 - 🎮 Love playing video games in my free time
 - 🎬 Movie enthusiast - always up for recommendations!
-## Streak Graph
+## 🔥 Streak Graph
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Pranay0205&theme=sunset-gradient&hide_border=true&border_radius=4.7&card_width=500&card_height=200" alt="GitHub Streak" />
   </a>
 </p>
+
+## 💻 Boot.dev Profile
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/98551611-498f-4c65-b2d2-26c803db351d/thumbnail" >
+</p>
+
 ---
 ### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
