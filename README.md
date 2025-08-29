@@ -1,6 +1,7 @@
 # Hi, I'm Pranay! 👋
 ## 🚀 About Me:
-I'm a developer with roots in frontend and a growing passion for backend engineering. I started out building UIs, but over time I've been loving the backend more and more - designing APIs, architecting services, and making data flow cleanly across systems.
+I'm a developer with roots in frontend and a growing passion for backend engineering. I started out building UIs, but over time I've been loving the backend more and more - designing APIs, architecting services, and making data flow cleanly across systems. <br>
+
 I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-stack roles where I can bring together Go, Python, and TypeScript to build scalable, production-ready applications. Some highlights: Chirpy (Go REST API), Emporia (React + Flask e-commerce), and CoachLint (VS Code extension, Boot.dev hackathon runner-up).
 ## 🌐 Connect with me:
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://pranayghuge.com)
