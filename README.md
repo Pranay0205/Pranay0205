@@ -23,10 +23,6 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
     <img src="https://streak-stats.demolab.com?user=Pranay0205&theme=sunset-gradient&hide_border=true&border_radius=4.7&card_width=500&card_height=200" alt="GitHub Streak" />
   </a>
 </p>
-
-## Boot.dev Profile
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-Hackathon%20Runner--up-orange?style=for-the-badge&logo=code&logoColor=white)](https://www.boot.dev/u/mysteriousadvice89)
-
 ---
 ### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
