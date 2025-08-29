@@ -27,8 +27,7 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
 ---
 ### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
-<p align="center">
-  <a href="https://github.com/pranay0205">
-    <img src="https://komarev.com/ghpvc/?username=pranay0205" alt="Profile views" />
-  </a>
-</p>
+<a href="https://github.com/pranay0205">
+  <img src="https://komarev.com/ghpvc/?username=pranay0205" alt="Profile views" />
+</a>
+
