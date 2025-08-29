@@ -38,7 +38,7 @@ I’m wrapping up my Master’s at UMass Dartmouth and looking for backend or fu
 
 ## Streak Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranay0205)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pranay0205&theme=sunset-gradient&hide_border=true&border_radius=4.7&card_width=500&card_height=200)](https://git.io/streak-stats)
 ---
 ### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
