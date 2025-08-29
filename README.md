@@ -30,7 +30,7 @@ I’m wrapping up my Master’s at UMass Dartmouth and looking for backend or fu
 - 🚀 Master Go programming language
 - 🌟 Contribute to more open source projects  
 - 📚 Learn new cloud technologies
-- 💪 Build amazing applications that make a difference!
+- 💪 Build amazing applications for fun!
 
 ## 🌟 Fun Facts:
 - 🎮 Love playing video games in my free time
