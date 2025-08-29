@@ -21,9 +21,11 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
 - 🎮 Love playing video games in my free time
 - 🎬 Movie enthusiast - always up for recommendations!
 ## Streak Graph
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Pranay0205&theme=sunset-gradient&hide_border=true&border_radius=4.7&card_width=500&card_height=200)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Pranay0205&theme=sunset-gradient&hide_border=true&border_radius=4.7&card_width=500&card_height=200" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 ### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pranay0205)
