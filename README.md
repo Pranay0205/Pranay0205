@@ -8,7 +8,8 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PranayGhuge2) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pranayghuge/)
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=go,python,js,ts,react,nodejs,nextjs,aws,docker,k8s,postgresql,mongodb,redis,git,linux)](https://skillicons.dev)
+[!My Skills](https://skillicons.dev/icons?i=go,python,js,ts,tailwind,react,nodejs,nextjs,aws,gcp,azure,docker,k8s,git,githubactions,postgresql,mongodb,redis,linux,windows&perline=10)
+
 ## 🎯 Current Goals:
 - 🚀 Master Go programming language
 - 🌟 Contribute to more open source projects  
