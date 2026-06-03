@@ -19,11 +19,6 @@ I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-s
 - 🎮 Love playing video games in my free time
 - 🎬 Movie enthusiast - always up for recommendations!
 
-## 💻 Boot.dev Profile
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/98551611-498f-4c65-b2d2-26c803db351d/thumbnail" >
-</p>
-
 ---
 ### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
