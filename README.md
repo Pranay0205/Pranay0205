@@ -8,11 +8,11 @@ My SaaS for event vendors and photographers in India, up and running with active
 
 ## Selected work
 
-- **CoachLint** — AI coding coach that guides you through errors instead of just fixing them. Runner-up at the Boot.dev hackathon.
-- **VaultDrive** — secure, self-hosted file storage backend in Go.
-- **Emporia** — full-stack e-commerce platform, Flask backend with React and TypeScript.
-- **Kintsugi** — LLM-based knowledge gap detection for intro programming submissions. Research code behind my M.S. thesis on LLM-based program analysis.
-- **ocular_eye_disease_detection** — deep learning models for detecting eye disease.
+- **CoachLint**: AI coding coach that guides you through errors instead of just fixing them. Runner-up at the Boot.dev hackathon.
+- **VaultDrive**: secure, self-hosted file storage backend in Go.
+- **Emporia**: full-stack e-commerce platform, Flask backend with React and TypeScript.
+- **Kintsugi**: LLM-based knowledge gap detection for intro programming submissions. Research code behind my M.S. thesis on LLM-based program analysis.
+- **ocular_eye_disease_detection**: deep learning models for detecting eye disease.
 
 ## Background
 
