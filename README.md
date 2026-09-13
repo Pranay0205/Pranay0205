@@ -1,28 +1,25 @@
-# Hi, I'm Pranay! 👋
-## 🚀 About Me:
-I'm a developer with roots in frontend and a growing passion for backend engineering. I started out building UIs, but over time I've been loving the backend more and more - designing APIs, architecting services, and making data flow cleanly across systems. <br>
-I'm wrapping up my Master's at UMass Dartmouth and looking for backend or full-stack roles where I can bring together Go, Python, and TypeScript to build scalable, production-ready applications. Some highlights: Chirpy (Go REST API), Emporia (React + Flask e-commerce), and CoachLint (VS Code extension, Boot.dev hackathon runner-up).
-## 🌐 Connect with me:
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://pranayghuge.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-ghuge-2a4a75137/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PranayGhuge2) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pranayghuge/)
-## 💻 Tech Stack:
-![Tech Stack Icons](https://skillicons.dev/icons?i=go,python,js,ts,tailwind,react,nodejs,nextjs,aws,gcp,azure,docker,k8s,git,githubactions,postgresql,mongodb,redis,linux,windows)
+# Hi, I'm Pranay Ghuge
 
-## 🎯 Current Goals:
-- 🚀 Master Go programming language
-- 🌟 Contribute to more open source projects  
-- 📚 Learn new cloud technologies
-- 💪 Build amazing applications for fun!
-## 🌟 Fun Facts:
-- 🎮 Love playing video games in my free time
-- 🎬 Movie enthusiast - always up for recommendations!
+Full-stack engineer with 3+ years building production systems in Go, Python, React and TypeScript.
 
----
-### ✨ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
+## Bandobast
 
-<a href="https://github.com/pranay0205">
-  <img src="https://komarev.com/ghpvc/?username=pranay0205" alt="Profile views" />
-</a>
+My SaaS for event vendors and photographers in India, up and running with active customers. Their website plus booking system plus photo delivery in one place. [bandobast.in](https://bandobast.in)
 
+## Selected work
+
+- **CoachLint** — AI coding coach that guides you through errors instead of just fixing them. Runner-up at the Boot.dev hackathon.
+- **VaultDrive** — secure, self-hosted file storage backend in Go.
+- **Emporia** — full-stack e-commerce platform, Flask backend with React and TypeScript.
+- **Kintsugi** — LLM-based knowledge gap detection for intro programming submissions. Research code behind my M.S. thesis on LLM-based program analysis.
+- **ocular_eye_disease_detection** — deep learning models for detecting eye disease.
+
+## Background
+
+Previously at ServiceNow (Go async job pipelines, Postgres optimization) and Accenture. M.S. Computer Science from UMass Dartmouth.
+
+## Connect
+
+- [pranayghuge.com](https://pranayghuge.com)
+- [linkedin.com/in/pranay-ghuge-2a4a75137](https://linkedin.com/in/pranay-ghuge-2a4a75137)
+- pranayghuge02@gmail.com
